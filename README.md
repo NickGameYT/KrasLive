@@ -1,4 +1,4 @@
-# KrasView
+# KrasLive
 
 Flutter project.
 
