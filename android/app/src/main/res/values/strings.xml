@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">KrasLive</string>
+    <string name="normal_theme">Normal Theme</string>
+    <string name="launch_theme">Launch Theme</string>
+</resources> 
